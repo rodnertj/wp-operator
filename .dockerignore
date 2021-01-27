@@ -1,0 +1,14 @@
+.git
+/vendor/
+wp-content/themes/somos-portais/node_modules
+wp-content/themes/somos-portais/.git
+wp-content/themes/somos-portais/composer.*
+wp-content/themes/somos-portais/Dockerfile.build
+wp-content/themes/somos-portais/package*
+wp-content/themes/somos-portais/yarn.lock
+Dockerfile
+Dockerfile.build
+docker-compose.yml
+composer.*
+.gitlab-ci.yml
+Makefile

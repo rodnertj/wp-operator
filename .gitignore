@@ -1,0 +1,9 @@
+*.html
+*.php
+*.txt
+/vendor/
+/wp-admin/
+/wp-content/
+/wp-includes/
+/wp/
+teste.txt

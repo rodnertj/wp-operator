@@ -1,0 +1,52 @@
+{
+    "name": "portal-anglo",
+    "description": "Portal Anglo",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        },
+        {
+            "type": "gitlab",
+            "url":  "git@gitlab.com:sdk12/portais/tema-somos-portais.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@gitlab.com:sdk12/portais/plugins/gb-plugin-api.git"
+        },
+        {
+            "type": "gitlab",
+            "url": "git@gitlab.com:sdk12/portais/plugins/really-simple-csv-importer.git"
+        },
+        {
+            "type": "gitlab",
+            "url": "git@gitlab.com:sdk12/portais/plugins/plugin-aws-mail.git"
+        },
+        {
+            "type": "gitlab",
+            "url": "git@gitlab.com:sdk12/portais/plugins/superpro-hub.git"
+        },
+        {
+            "type": "gitlab",
+            "url": "git@gitlab.com:sdk12/portais/plugins/portais-user-report.git"
+        }
+    ],
+    "require": {
+        "johnpbloch/wordpress": "5.5.*",
+        "wpackagist-plugin/wordpress-importer": "0.*",
+        "sistema-de-ensino/somos-portais": "dev-staging",
+        "apiki/gb-plugin-api": "dev-staging",
+        "sistema-de-ensino/really-simple-csv-importer": "dev-staging",
+        "saraiva/plugin-aws-mail": "dev-master",
+        "wpackagist-plugin/wp-mail-logging":"1.*",
+        "wpackagist-plugin/contact-form-7": "5.*",
+        "wpackagist-plugin/video-thumbnails": "2.*",
+        "wpackagist-plugin/responsive-accordion-and-collapse":"2.*",
+        "wpackagist-plugin/wp-sentry-integration": "3.*",
+        "somoseducacao/superpro-hub": "dev-staging",
+        "somoseducacao/portais-user-report": "dev-staging"
+    },
+    "extra": {
+        "wordpress-install-dir": "wp"
+    }
+}
