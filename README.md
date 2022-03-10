@@ -1,16 +1,14 @@
-# Portal Anglo
-
-CMS para gerenciamento de recursos disponibililzados para o sistema de ensino Anglo
+# Portal WP
 
 ## Iniciando
 
 Faça o clone do projeto:
 
-`git clone git@gitlab.com:sdk12/portais/portal-anglo.git`
+`git clone git@gitlab.com:sdk12/portais/portal-wp.git`
 
 ou
 
-`git clone https://gitlab.com/sdk12/portais/portal-anglo.git`
+`git clone https://gitlab.com/sdk12/portais/portal-wp.git`
 
 
 ### Pré requisitos
